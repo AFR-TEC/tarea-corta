@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Tarea Corta
 
-You can use the [editor on GitHub](https://github.com/AFR-TEC/tarea-corta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tarea Corta Algoritmos y Estructuras de Datos I.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AFR-TEC/tarea-corta/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [Historias de usuario](https://github.com/AFR-TEC/tarea-corta.github.io/projects/2)
+- [Clasificación con system span](https://cdn.discordapp.com/attachments/813577157246189579/837540894277500938/Slice.png)
+- [Plan de iteraciones](url)
+- [Mapa conceptual](https://cdn.discordapp.com/attachments/813577157246189579/837523557386682380/unknown.png)
+- [Diagrama de clases](https://cdn.discordapp.com/attachments/813577157246189579/837517740838617158/unknown.png)
